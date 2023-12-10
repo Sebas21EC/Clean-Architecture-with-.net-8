@@ -391,6 +391,7 @@
           }
         }
       },
+      "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {},
       "System.Configuration.ConfigurationManager/6.0.1": {
         "dependencies": {
           "System.Security.Cryptography.ProtectedData": "6.0.0",
@@ -566,7 +567,8 @@
           "FluentValidation": "11.8.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "MediatR": "12.2.0",
-          "Microsoft.EntityFrameworkCore": "8.0.0"
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Selenium.WebDriver.ChromeDriver": "120.0.6099.7100"
         },
         "runtime": {
           "AccountsReceivable.Application.dll": {}
@@ -854,6 +856,13 @@
       "sha512": "sha512-hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
       "path": "microsoft.win32.systemevents/6.0.0",
       "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H4tccr0Asuv4Xe5i2LC8XGiv6UHBfgVP9Liy7uUvDadfHitq3DeXL4CG5/mQy3Vhd8EnmM6cdrI8QQEHEP/6Dg==",
+      "path": "selenium.webdriver.chromedriver/120.0.6099.7100",
+      "hashPath": "selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
     },
     "System.Configuration.ConfigurationManager/6.0.1": {
       "type": "package",

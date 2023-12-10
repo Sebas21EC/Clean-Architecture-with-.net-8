@@ -15,17 +15,22 @@ namespace Infraestructure.Persistence
     {
         private readonly IPublisher _publisher;
 
-        public ApplicationDbContext(DbContextOptions options, IPublisher publisher): base(options)
+        public ApplicationDbContext(DbContextOptions options, IPublisher publisher) : base(options)
         {
             _publisher = publisher ?? throw new ArgumentNullException(nameof(publisher));
         }
 
-        public DbSet<BankAccount> BankAccounts { get ; set ; }
+        public DbSet<BankAccount> BankAccounts { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+            modelBuilder.Entity<BankAccount>()
+                .Property(e => e.Id)
+                .HasConversion(new BankAccountIdValueConverter());
         }
+
+
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
         {
@@ -35,7 +40,7 @@ namespace Infraestructure.Persistence
                  .Where(x => x.GetDomainEvents().Any())
                  .SelectMany(x => x.GetDomainEvents());
 
-           var result = await base.SaveChangesAsync(cancellationToken);
+            var result = await base.SaveChangesAsync(cancellationToken);
 
             foreach (var domainEvent in domainEvents)
             {

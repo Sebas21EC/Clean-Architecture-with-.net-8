@@ -21,7 +21,7 @@ namespace Domain.Entities.BankAccounts
             PhoneNumber = phoneNumber;
         }
 
-        private BankAccount() { }
+        public BankAccount() { }
 
 
         public BankAccountId Id { get; private set; }
@@ -31,5 +31,18 @@ namespace Domain.Entities.BankAccounts
         public string? Details { get; private set; }
         public bool status { get; private set; }
         public PhoneNumber? PhoneNumber { get; private set; }
+
+        // Dentro de la clase BankAccount en BankAccount.cs
+        public void Update(string? number, string? bankName, string? name, string? details, bool status, PhoneNumber? phoneNumber)
+        {
+            // Lógica de actualización aquí
+            this.Number = number;
+            this.BankName = bankName;
+            this.Name = name;
+            this.Details = details;
+            this.status = status;
+            this.PhoneNumber = phoneNumber;
+        }
+
     }
 }

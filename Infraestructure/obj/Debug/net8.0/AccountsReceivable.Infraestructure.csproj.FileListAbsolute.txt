@@ -15,3 +15,4 @@ C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\o
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\refint\AccountsReceivable.Infraestructure.dll
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.pdb
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\ref\AccountsReceivable.Infraestructure.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.sourcelink.json

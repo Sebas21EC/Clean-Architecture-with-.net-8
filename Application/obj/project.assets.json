@@ -292,6 +292,12 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      },
       "AccountsReceivable.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -763,6 +769,29 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+      "sha512": "H4tccr0Asuv4Xe5i2LC8XGiv6UHBfgVP9Liy7uUvDadfHitq3DeXL4CG5/mQy3Vhd8EnmM6cdrI8QQEHEP/6Dg==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/120.0.6099.7100",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    },
     "AccountsReceivable.Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/AccountsReceivable.Domain.csproj",
@@ -776,7 +805,8 @@
       "FluentValidation >= 11.8.1",
       "FluentValidation.AspNetCore >= 11.3.0",
       "MediatR >= 12.2.0",
-      "Microsoft.EntityFrameworkCore >= 8.0.0"
+      "Microsoft.EntityFrameworkCore >= 8.0.0",
+      "Selenium.WebDriver.ChromeDriver >= 120.0.6099.7100"
     ]
   },
   "packageFolders": {
@@ -847,6 +877,10 @@
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[120.0.6099.7100, )"
           }
         },
         "imports": [

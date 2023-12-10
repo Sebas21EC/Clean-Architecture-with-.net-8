@@ -10,13 +10,7 @@
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageReference Include="MediatR" Version="12.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="CQRS\BankAccounts\Delete\" />
-    <Folder Include="CQRS\BankAccounts\GetById\" />
-    <Folder Include="CQRS\BankAccounts\GetAll\" />
-    <Folder Include="CQRS\BankAccounts\Update\" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="120.0.6099.7100" />
   </ItemGroup>
 
   <PropertyGroup>

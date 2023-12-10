@@ -679,6 +679,7 @@
           }
         }
       },
+      "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {},
       "Swashbuckle.AspNetCore/6.4.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -972,7 +973,8 @@
           "FluentValidation": "11.8.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "MediatR": "12.2.0",
-          "Microsoft.EntityFrameworkCore": "8.0.0"
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Selenium.WebDriver.ChromeDriver": "120.0.6099.7100"
         },
         "runtime": {
           "AccountsReceivable.Application.dll": {}
@@ -1356,6 +1358,13 @@
       "sha512": "sha512-KZYeKBET/2Z0gY1WlTAK7+RHTl7GSbtvTLDXEZZojUdAPqpQNDL6tHv7VUpqfX5VEOh+uRGKaZXkuD253nEOBQ==",
       "path": "mono.texttemplating/2.2.1",
       "hashPath": "mono.texttemplating.2.2.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H4tccr0Asuv4Xe5i2LC8XGiv6UHBfgVP9Liy7uUvDadfHitq3DeXL4CG5/mQy3Vhd8EnmM6cdrI8QQEHEP/6Dg==",
+      "path": "selenium.webdriver.chromedriver/120.0.6099.7100",
+      "hashPath": "selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

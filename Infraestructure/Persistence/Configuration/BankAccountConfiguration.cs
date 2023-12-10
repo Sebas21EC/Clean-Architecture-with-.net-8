@@ -26,7 +26,7 @@ namespace Infraestructure.Persistence.Configuration
             builder.ToTable("BankAccounts");
 
             builder.HasKey(b => b.Id);
-            builder.Property(b => b.Id).HasConversion(b => b.Value, b => new BankAccountId(b));
+            //builder.Property(b => b.Id).HasConversion(b => b.Value, b => new BankAccountId(b));
             builder.HasIndex(b => b.Number).IsUnique();
             builder.Property(b => b.BankName).HasMaxLength(50);
             builder.Property(b => b.Name).HasMaxLength(50);

@@ -10,5 +10,9 @@ namespace Domain.Entities.BankAccounts
     {
         Task<BankAccount> GetByIdAsync(BankAccountId id);
         Task Add (BankAccount bankAccount);
+        Task Remove(BankAccount bankAccount);
+        Task Update(BankAccount bankAccount);
+        Task<List<BankAccount>> GetAllAsync();
+
     }
 }

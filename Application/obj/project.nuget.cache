@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lTvvtoxLUjv1LFI91VQbpcOhueYM9wJ0ji8Bfs05tN4kHM4iEaEkm/Ib99x4lvOXaN9R1rytciwRw/NCSnA37w==",
+  "dgSpecHash": "W/68YjXpe8lxhpFje7XX7SpqWiu4eeSwGesf9u07kio+9PMMP3KmcqpHn0SDJXa8FVSxFsKVhWkn29S0XC1u+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\Documents\\Visual Studio 2022\\AccountsReceivable\\Application\\AccountsReceivable.Application.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,8 @@
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
   ],
   "logs": []
 }

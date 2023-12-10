@@ -3,11 +3,6 @@ using Domain.Primitives;
 using Domain.ValueObjects;
 using ErrorOr;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.CQRS.BankAccounts.Create
 {
@@ -34,7 +29,7 @@ namespace Application.CQRS.BankAccounts.Create
                 }
 
                 var bankAccount = new BankAccount(
-                    new BankAccountId(Guid.NewGuid()),
+                    BankAccountId.Create(),
                     command.Number,
                     command.BankName,
                     command.Name,

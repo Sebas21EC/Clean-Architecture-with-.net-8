@@ -13,3 +13,4 @@ C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\D
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\refint\AccountsReceivable.Application.dll
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.pdb
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\ref\AccountsReceivable.Application.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.sourcelink.json

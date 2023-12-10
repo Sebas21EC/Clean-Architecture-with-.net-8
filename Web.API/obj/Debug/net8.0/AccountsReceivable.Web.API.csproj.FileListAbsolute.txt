@@ -147,3 +147,4 @@ C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Web.API\bin\Debug
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Web.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Web.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Web.API\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Web.API\obj\Debug\net8.0\AccountsReceivable.Web.API.sourcelink.json

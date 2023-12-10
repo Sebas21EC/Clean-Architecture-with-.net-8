@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uL/UZ2p7/8hO3zn8MTVqOGnaVmYDw6la3qafew5zsxsT8mM/Jb3HeHD/BvOphkaoWYKxpQzXNhRwb56/okU0MQ==",
+  "dgSpecHash": "uq6pSy451SEbve0uNzXfmCOxGrHoObgIotWFxe03+ApY9OUxGahWGbNdNGik45Ka9NHq/g8TPEcA9s+qalOvXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\Documents\\Visual Studio 2022\\AccountsReceivable\\Infraestructure\\AccountsReceivable.Infraestructure.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",

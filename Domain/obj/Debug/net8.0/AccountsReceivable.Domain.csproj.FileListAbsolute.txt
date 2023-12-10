@@ -10,3 +10,4 @@ C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\refint\AccountsReceivable.Domain.dll
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.pdb
 C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\ref\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.sourcelink.json

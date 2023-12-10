@@ -1012,6 +1012,12 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+      "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+        "type": "package",
+        "build": {
+          "build/_._": {}
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -1674,7 +1680,8 @@
           "FluentValidation": "11.8.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "MediatR": "12.2.0",
-          "Microsoft.EntityFrameworkCore": "8.0.0"
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Selenium.WebDriver.ChromeDriver": "120.0.6099.7100"
         },
         "compile": {
           "bin/placeholder/AccountsReceivable.Application.dll": {}
@@ -3454,6 +3461,29 @@
         "lib/netstandard2.0/Mono.TextTemplating.dll",
         "mono.texttemplating.2.2.1.nupkg.sha512",
         "mono.texttemplating.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/120.0.6099.7100": {
+      "sha512": "H4tccr0Asuv4Xe5i2LC8XGiv6UHBfgVP9Liy7uUvDadfHitq3DeXL4CG5/mQy3Vhd8EnmM6cdrI8QQEHEP/6Dg==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/120.0.6099.7100",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
       ]
     },
     "Swashbuckle.AspNetCore/6.4.0": {
