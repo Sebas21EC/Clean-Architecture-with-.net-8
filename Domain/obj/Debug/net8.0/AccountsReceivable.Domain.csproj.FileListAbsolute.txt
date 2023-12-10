@@ -1,0 +1,12 @@
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\bin\Debug\net8.0\AccountsReceivable.Domain.deps.json
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\bin\Debug\net8.0\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\bin\Debug\net8.0\AccountsReceivable.Domain.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.AssemblyInfo.cs
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\refint\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\AccountsReceivable.Domain.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Domain\obj\Debug\net8.0\ref\AccountsReceivable.Domain.dll

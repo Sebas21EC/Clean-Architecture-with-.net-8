@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\bin\Debug\net8.0\AccountsReceivable.Application.deps.json
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\bin\Debug\net8.0\AccountsReceivable.Application.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\bin\Debug\net8.0\AccountsReceivable.Application.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\bin\Debug\net8.0\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\bin\Debug\net8.0\AccountsReceivable.Domain.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.AssemblyInfo.cs
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.csproj.CopyComplete
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\refint\AccountsReceivable.Application.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\AccountsReceivable.Application.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Application\obj\Debug\net8.0\ref\AccountsReceivable.Application.dll

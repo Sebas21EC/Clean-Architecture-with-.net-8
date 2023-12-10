@@ -1,0 +1,17 @@
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Infraestructure.deps.json
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Infraestructure.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Infraestructure.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Application.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Domain.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Domain.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\bin\Debug\net8.0\AccountsReceivable.Application.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.AssemblyInfo.cs
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.csproj.CopyComplete
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\refint\AccountsReceivable.Infraestructure.dll
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\AccountsReceivable.Infraestructure.pdb
+C:\Users\sebas\Documents\Visual Studio 2022\AccountsReceivable\Infraestructure\obj\Debug\net8.0\ref\AccountsReceivable.Infraestructure.dll

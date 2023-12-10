@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LZr7NTThY+FkH3aGTZy4Jju2Q5nawKzI5WU/opPOpIA=",
+  "Source": "AccountsReceivable.Web.API",
+  "BasePath": "_content/AccountsReceivable.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
